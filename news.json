@@ -1,1 +1,62 @@
-{"updated_at": null, "sources": []}
+{
+  "updated_at": "2026-06-08T12:43:53.976906+00:00",
+  "sources": [
+    {
+      "source": "Spotify Newsroom",
+      "url": "https://newsroom.spotify.com/",
+      "fetched_at": "2026-06-08T12:43:53.976884+00:00",
+      "items": [
+        {
+          "title": "Meet the New GLOW Ambassadors Leading Spotify’s Global Pride Celebration",
+          "link": "https://newsroom.spotify.com/2026-06-08/glow-pride-month-ambassadors/",
+          "date": "Mon, 08 Jun 2026 06:45:49 +0000"
+        },
+        {
+          "title": "Your Summer 2026 Soundtrack? Spotify’s Predictions Are In",
+          "link": "https://newsroom.spotify.com/2026-05-29/songs-of-summer-predictions/",
+          "date": "Fri, 29 May 2026 12:59:12 +0000"
+        },
+        {
+          "title": "Introducing the Newest Winners of Spotify’s Creator Milestone Awards",
+          "link": "https://newsroom.spotify.com/2026-05-28/creator-milestone-award-podcast-winners-q1-2026/",
+          "date": "Thu, 28 May 2026 19:00:07 +0000"
+        },
+        {
+          "title": "More Control, Faster Playlist Editing, and Other Updates for Everyday Listening on Spotify",
+          "link": "https://newsroom.spotify.com/2026-05-28/playlist-folders-mobile-queue-controls-updates/",
+          "date": "Thu, 28 May 2026 14:45:17 +0000"
+        },
+        {
+          "title": "Olivia Rodrigo Brings Billions Club Live to Barcelona: Watch the Concert Film Now",
+          "link": "https://newsroom.spotify.com/2026-05-27/olivia-rodrigo-billions-club-live-barcelona/",
+          "date": "Wed, 27 May 2026 19:49:49 +0000"
+        },
+        {
+          "title": "Spotify and Netflix Partner With Jay Shetty to Bring ‘On Purpose’ to Video Across Both Platforms",
+          "link": "https://newsroom.spotify.com/2026-05-27/on-purpose-jay-shetty-video-spotify-netflix/",
+          "date": "Wed, 27 May 2026 15:30:45 +0000"
+        },
+        {
+          "title": "Podcast Clips Make Your Favorite Moments Easier to Save and Share",
+          "link": "https://newsroom.spotify.com/2026-05-27/podcast-clips-save-share-moments/",
+          "date": "Wed, 27 May 2026 12:45:15 +0000"
+        },
+        {
+          "title": "Spotify Brings Long-Form Magazine Articles to Audio",
+          "link": "https://newsroom.spotify.com/2026-05-26/articles-magazine-test-launch/",
+          "date": "Tue, 26 May 2026 10:00:57 +0000"
+        },
+        {
+          "title": "Spotify’ın 2026 Investor Day Özeti: Medyanın Yeni Çağı İçin Büyük Hedefler",
+          "link": "https://newsroom.spotify.com/2026-05-21/investor-day-recap-turkish/",
+          "date": "Thu, 21 May 2026 17:19:39 +0000"
+        },
+        {
+          "title": "Resumo do Investor Day 2026 do Spotify: elevando a ambição para a próxima era da mídia",
+          "link": "https://newsroom.spotify.com/2026-05-21/investor-day-recap-portuguese/",
+          "date": "Thu, 21 May 2026 17:07:56 +0000"
+        }
+      ]
+    }
+  ]
+}
